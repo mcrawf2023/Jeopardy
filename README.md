@@ -1,1 +1,1 @@
-This is my final project for the course I took in Unstructured Data Analysis in Python. This is our final project for the class, where my group and I analyzed patterns in the question bank from the popular game show _Jeopardy!_ to improve player strategy and gameplay.  
+This is my final project for the course I took in Unstructured Data Analysis in Python. My group and I analyzed patterns in the question bank from the popular game show _Jeopardy!_ to improve player strategy and gameplay.  
